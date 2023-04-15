@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Cruze03/Profile-Summary/master/profile-summary-card-output/graywhite/4-productive-time.svg)
-```
-
-    

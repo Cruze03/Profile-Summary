@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Cruze03/Profile-Summary/master/profile-summary-card-output/omni/4-productive-time.svg)
-```
-
-    
